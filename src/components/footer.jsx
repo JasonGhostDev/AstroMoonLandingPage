@@ -12,30 +12,7 @@ const footer = () => {
     <>
       <Row className="p-3 p-md-5 justify-content-center">
         <Col xl="3" className="mb-5 mr-xl-5 feature_card">
-          <div className="contact_us text-white px-3 py-4">
-            <h4>Contact Us</h4>
-            <Form>
-              <Form.Group>
-                <Form.Control type="text" className="mb-3" />
-                <Form.Control type="text" className="mb-3" />
-                <Form.Control
-                  type="text"
-                  as="textarea"
-                  className="mb-3"
-                  style={{ minHeight: "100px" }}
-                />
-              </Form.Group>
-              <div className="w-100 d-flex justify-content-end">
-                <Button
-                  type="submit"
-                  variant="light"
-                  className="px-5 submit_footer"
-                >
-                  SUBMIT
-                </Button>
-              </div>
-            </Form>
-          </div>
+          
         </Col>
         <Col xl="4" className="ml-xl-5">
           <div className="d-flex justify-content-center">

@@ -13,7 +13,7 @@ const footer = () => {
       <Row className="p-3 p-md-5 justify-content-center app_secondery">
         <Col xl="3" className="mb-5 mr-xl-5 feature_card">
           <div className="contact_us text-white px-3 py-4">
-            <h4>Contact Us</h4>
+            <h4>Contact Uss</h4>
             <Form>
               <Form.Group>
                 <Form.Control type="text" className="mb-3" />
